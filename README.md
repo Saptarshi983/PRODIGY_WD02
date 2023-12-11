@@ -1,4 +1,4 @@
-# PRODIGY_WD02
+# PRODIGY_WD_02
 Created a Stopwatch Web Application 
 
 # Stopwatch Web Application
